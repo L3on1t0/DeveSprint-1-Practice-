@@ -47,7 +47,7 @@ a{
 .container img{
   width: 100%;
 }
-.card-wrapper{
+/* .card-wrapper{
   resize: both;
   overflow: auto;
   padding-left: 15px;
@@ -55,4 +55,4 @@ a{
 div.card{
   float:left;
   margin: 1rem;
-}
+} */
